@@ -1,4 +1,4 @@
-#args es convencion en python q permite pasar un numero varbile de arguemtnos posicion a funcion
+#args es convencion en python q permite pasar un numero variable de argumentos posicion a funcion
 def sumar(*args):
     suma=0
     for i in args:
